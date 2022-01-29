@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/nftredzone-v2/static/css/main.f938068c.chunk.css",
+    "main.js": "/nftredzone-v2/static/js/main.e8e28113.chunk.js",
+    "runtime~main.js": "/nftredzone-v2/static/js/runtime~main.09ce9d74.js",
+    "static/js/2.eb28af11.chunk.js": "/nftredzone-v2/static/js/2.eb28af11.chunk.js",
+    "index.html": "/nftredzone-v2/index.html",
+    "precache-manifest.5a6818a1629a19d669c2cf59626b04bc.js": "/nftredzone-v2/precache-manifest.5a6818a1629a19d669c2cf59626b04bc.js",
+    "service-worker.js": "/nftredzone-v2/service-worker.js",
+    "static/media/Card-Head Coach.jpg": "/nftredzone-v2/static/media/Card-Head Coach.18fd6dd4.jpg",
+    "static/media/Card-Ponies-Flex.jpg": "/nftredzone-v2/static/media/Card-Ponies-Flex.35b14401.jpg",
+    "static/media/Logo.png": "/nftredzone-v2/static/media/Logo.b42dbdc0.png",
+    "static/media/bunchu.png": "/nftredzone-v2/static/media/bunchu.7f8ac268.png",
+    "static/media/discord.svg": "/nftredzone-v2/static/media/discord.3437c105.svg",
+    "static/media/gcg.PNG": "/nftredzone-v2/static/media/gcg.cd7bbd38.PNG",
+    "static/media/home1.jpg": "/nftredzone-v2/static/media/home1.b7d8a0e9.jpg",
+    "static/media/home2.jpg": "/nftredzone-v2/static/media/home2.f7f7c85f.jpg",
+    "static/media/style.scss": "/nftredzone-v2/static/media/illustration-section-04.2750c0f9.svg",
+    "static/media/premium.png": "/nftredzone-v2/static/media/premium.8fbd3b29.png",
+    "static/media/prize.png": "/nftredzone-v2/static/media/prize.70eb74b2.png",
+    "static/media/roadmap.gif": "/nftredzone-v2/static/media/roadmap.c7207f17.gif",
+    "static/media/schedule.png": "/nftredzone-v2/static/media/schedule.3658910e.png",
+    "static/media/App.css": "/nftredzone-v2/static/media/spike.7fab00ca.svg",
+    "static/media/twitter.svg": "/nftredzone-v2/static/media/twitter.f60435e9.svg",
+    "static/media/zwingli.png": "/nftredzone-v2/static/media/zwingli.36e2b133.png"
+  }
+}
